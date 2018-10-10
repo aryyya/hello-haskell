@@ -1,3 +1,0 @@
-all:
-  ghc main.hs -o 'Hello Haskell.exe'
-
